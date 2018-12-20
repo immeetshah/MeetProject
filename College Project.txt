@@ -1,0 +1,38 @@
+Company Profile
+
+Guide Profile
+	Guide Name
+	Guide Email
+	Guide Contact
+	Guide Qualification
+	Guide Position
+	Guide Experiance
+	
+Project Profile
+	Project Title
+	Project Defination
+	Project Features
+	Scope
+	Main Functionalioties
+	Tools And Technologies
+	
+Work Done
+	Project Profile
+	Requirement Gathering
+	
+MSBC Group have developed Innovative System and Software Solutions, together with a suite of software tools to build, maintain, and manage customised enterprise systems that deliver business value to our customers and their clients.
+
+We are an Innovative Solutions Company with a team of Analysts, System Integrators, Database Designers and Administrators, Software, Network and Hardware Engineers and Implementation Specialists. We offer breadth and depth of expertise that is unique in today's data management landscape through acquisition, warehousing, utilisation, secure sharing, safe storage and business intelligence to lower costs, increase efficiency, effectiveness and ensuring data integrity.
+
+There are different facial recognition techniques in use, such as the generalized matching face detection method and the adaptive regional blend matching method. Most facial recognition systems function based on the different nodal points on a human face. The values measured against the variable associated with points of a person’s face help in uniquely identifying or verifying the person. With this technique, applications can use data captured from faces and can accurately and quickly identify target individuals. Facial recognition techniques are quickly evolving with new approaches such as 3-D modeling, helping to overcome issues with existing techniques.
+
+There are many advantages associated with facial recognition. Compared to other biometric techniques, facial recognition is of a non-contact nature. Face images can be captured from a distance and can be analyzed without ever requiring any interaction with the user/person. As a result, no user can successfully imitate another person. Facial recognition can serve as an excellent security measure for time tracking and attendance. Facial recognition is also cheap technology as there is less processing involved, like in other biometric techniques.
+
+There are certain drawbacks associated with facial recognition. Facial recognition can only identify people when the conditions such as lighting are favourable. The application could be less reliable in case of insufficient light or if the face is partially obscured. Another disadvantage is that facial recognition is less effective when facial expressions vary.
+
+A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. There are multiple methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database. It is also described as a Biometric Artificial Intelligence based application that can uniquely identify a person by analysing patterns based on the person's facial textures and shape. [1][better source needed]
+
+While initially a form of computer application, it has seen wider uses in recent times on mobile platforms and in other forms of technology, such as robotics. It is typically used as access control in security systems and can be compared to other biometrics such as fingerprint or eye iris recognition systems.[2] Although the accuracy of facial recognition system as a biometric technology is lower than iris recognition and fingerprint recognition, it is widely adopted due to its contactless and non-invasive process.[3] Recently, it has also become popular as a commercial identification and marketing tool.[4] Other applications include advanced human-computer interaction, video. surveillance, automatic indexing of images, and video database, among others.
+
+Func...
+
