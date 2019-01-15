@@ -1,0 +1,1 @@
+https://www.aspsnippets.com/Articles/Send-Email-in-SQL-Server-using-Stored-Procedure.aspx
